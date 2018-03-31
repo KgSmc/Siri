@@ -1,11 +1,14 @@
-基于Django的python信息管理系统，用于酒店预订管理
+Python+tensorflow基于inception_v3实现对图像的识别
 
 #环境
 
-IDE:JetBrains PyCharm 3.4.1
+IDE:JetBrains PyCharm 3.5.1
 
-Python: 2.7.8
+Python: 3.5
 
-Django:1.7
+tensoflow-gpu:1.30
+tensorboard:1.6
+numpy:1.13
+matplotlb2.20
 
-MySQL:5.6.20
+
