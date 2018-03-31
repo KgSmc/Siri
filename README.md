@@ -12,6 +12,6 @@ tensorboard:1.6
 
 numpy:1.13
 
-matplotlb2.20
+matplotlb:2.20
 
 
